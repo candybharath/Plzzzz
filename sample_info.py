@@ -1,4 +1,4 @@
-# Bot information
+#Code By @JonSnow11
 SESSION = 'Media_search'
 USER_SESSION = 'User_Bot'
 API_ID = 12345
