@@ -1,3 +1,4 @@
+#Coded By @JonSnow11
 class script(object):
     START_TXT = """<b> Hᴇʟʟᴏ {}</b> 😁
     
