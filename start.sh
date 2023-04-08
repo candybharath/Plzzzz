@@ -1,4 +1,4 @@
-#Coded By @JonSnow11
+#Coded By JonSnow11
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
