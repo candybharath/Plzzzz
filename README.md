@@ -12,14 +12,14 @@
 ## SUPPORT!
 
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/+ZPpcbtCV204yYWU1)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/RolexMoviesOX)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/RolexMoviesOXO)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narutooxox&label=Profile%20views&color=0e75b6&style=flat" alt="narutooxox" /> </p>
 
 ## Commands
 ```
 • /logs - to get the rescent errors
-• /stats - to get status of files in db.
+• /stats - to get status of files in db
 * /filter - add manual filters
 * /filters - view filters
 * /connect - connect to PM.
