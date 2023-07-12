@@ -9,6 +9,11 @@
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/narutooxox/RolexTG)      [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/FNLGnU?referralCode=LqNBNz)      [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/narutooxox/RolexTG)
 
+## Deploy 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/candybharath/Plzzzz)
+
+
 ## SUPPORT!
 
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/+ZPpcbtCV204yYWU1)
