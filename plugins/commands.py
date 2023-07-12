@@ -144,10 +144,10 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('⚡Main Group', url=f"https://t.me/+ZPpcbtCV204yYWU1"),
-                          InlineKeyboardButton('Main Channel⚡', url=CHNL_LNK)
+                          InlineKeyboardButton('Main Group', url=f"https://t.me/+ZPpcbtCV204yYWU1"),
+                          InlineKeyboardButton('Main Channel', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton('🔥 Join Updates Channel 🔥', url=CHNL_LNK)
+                          InlineKeyboardButton('Join Updates Channel ', url=CHNL_LNK)
                          ]
                         ]
                     )
@@ -163,10 +163,10 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('⚡Main Group', url=GRP_LNK),
-                          InlineKeyboardButton('Main Channel⚡', url=CHNL_LNK)
+                          InlineKeyboardButton('Main Group', url=GRP_LNK),
+                          InlineKeyboardButton('Main Channel', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton('🔥 Join Updates Channel 🔥', url=CHNL_LNK)
+                          InlineKeyboardButton('Join Updates Channel', url=CHNL_LNK)
                          ]
                         ]
                     )
@@ -233,10 +233,10 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('⚡Main Group', url=GRP_LNK),
-                          InlineKeyboardButton('Main Channel⚡', url=CHNL_LNK)
+                          InlineKeyboardButton('Main Group', url=GRP_LNK),
+                          InlineKeyboardButton('Main Channel', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton('🔥 Join Updates Channel 🔥', url=CHNL_LNK)
+                          InlineKeyboardButton('Join Updates Channel', url=CHNL_LNK)
                          ]
                         ]
                     )
@@ -275,10 +275,10 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('⚡Main Group', url=GRP_LNK),
-                          InlineKeyboardButton('Main Channel⚡', url=CHNL_LNK)
+                          InlineKeyboardButton('Main Group', url=GRP_LNK),
+                          InlineKeyboardButton('Main Channel', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton('🔥 Join Updates Channel 🔥', url=CHNL_LNK)
+                          InlineKeyboardButton('Join Updates Channel', url=CHNL_LNK)
                          ]
                         ]
                     )
