@@ -146,17 +146,17 @@ async def next_page(bot, query):
         if settings['auto_delete']:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'Iɴꜰᴏ🚩', 'reqinfo'),
-                    InlineKeyboardButton(f'Mᴏᴠɪᴇ🔆', 'minfo'),
-                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ🔆', 'sinfo')
+                    InlineKeyboardButton(f'Iɴꜰᴏ', 'reqinfo'),
+                    InlineKeyboardButton(f'Mᴏᴠɪᴇ', 'minfo'),
+                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ', 'sinfo')
                 ]
             )
 
         else:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'Mᴏᴠɪᴇ🔆', 'minfo'),
-                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ🔆', 'sinfo')
+                    InlineKeyboardButton(f'Mᴏᴠɪᴇ', 'minfo'),
+                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ', 'sinfo')
                 ]
             )
                 
@@ -167,17 +167,17 @@ async def next_page(bot, query):
         if settings['auto_delete']:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'Iɴꜰᴏ🚩', 'reqinfo'),
-                    InlineKeyboardButton(f'Mᴏᴠɪᴇ🔆', 'minfo'),
-                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ🔆', 'sinfo')
+                    InlineKeyboardButton(f'Iɴꜰᴏ', 'reqinfo'),
+                    InlineKeyboardButton(f'Mᴏᴠɪᴇ', 'minfo'),
+                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ', 'sinfo')
                 ]
             )
 
         else:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'Mᴏᴠɪᴇ🔆', 'minfo'),
-                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ🔆', 'sinfo')
+                    InlineKeyboardButton(f'Mᴏᴠɪᴇ', 'minfo'),
+                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ', 'sinfo')
                 ]
             )
     try:
@@ -270,7 +270,7 @@ async def next_page(bot, query):
                     ],
                 )
     btn.insert(0, [
-        InlineKeyboardButton("🔻 How To Download 🔻", url=DOWNLOAD_TEXT_URL)
+        InlineKeyboardButton("How To Download", url=DOWNLOAD_TEXT_URL)
     ])
     try:
         await query.edit_message_reply_markup(
@@ -568,10 +568,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('⚡Main Group', url=GRP_LNK),
-                          InlineKeyboardButton('Main Channel⚡', url=CHNL_LNK)
+                          InlineKeyboardButton('Main Group', url=GRP_LNK),
+                          InlineKeyboardButton('Main Channel', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton('🔥 Join Updates Channel 🔥', url=CHNL_LNK)
+                          InlineKeyboardButton('Join Updates Channel', url=CHNL_LNK)
                          ]
                         ]
                     )
@@ -616,10 +616,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('⚡Main Group', url=GRP_LNK),
-                          InlineKeyboardButton('Main Channel⚡', url=CHNL_LNK)
+                          InlineKeyboardButton('Main Group', url=GRP_LNK),
+                          InlineKeyboardButton('Main Channel', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton('🔥 Join Updates Channel 🔥', url=CHNL_LNK)
+                          InlineKeyboardButton('Join Updates Channel', url=CHNL_LNK)
                          ]
                         ]
                     )
@@ -1398,17 +1398,17 @@ async def auto_filter(client, msg, spoll=False):
         if settings['auto_delete']:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'Iɴꜰᴏ🚩', 'reqinfo'),
-                    InlineKeyboardButton(f'Mᴏᴠɪᴇ🔆', 'minfo'),
-                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ🔆', 'sinfo')
+                    InlineKeyboardButton(f'Iɴꜰᴏ', 'reqinfo'),
+                    InlineKeyboardButton(f'Mᴏᴠɪᴇ', 'minfo'),
+                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ', 'sinfo')
                 ]
             )
 
         else:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'Mᴏᴠɪᴇ🔆', 'minfo'),
-                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ🔆', 'sinfo')
+                    InlineKeyboardButton(f'Mᴏᴠɪᴇ', 'minfo'),
+                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ', 'sinfo')
                 ]
             )
                 
@@ -1419,17 +1419,17 @@ async def auto_filter(client, msg, spoll=False):
         if settings['auto_delete']:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'Iɴꜰᴏ🚩', 'reqinfo'),
-                    InlineKeyboardButton(f'Mᴏᴠɪᴇ🔆', 'minfo'),
-                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ🔆', 'sinfo')
+                    InlineKeyboardButton(f'Iɴꜰᴏ', 'reqinfo'),
+                    InlineKeyboardButton(f'Mᴏᴠɪᴇ', 'minfo'),
+                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ', 'sinfo')
                 ]
             )
 
         else:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'Mᴏᴠɪᴇ🔆', 'minfo'),
-                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ🔆', 'sinfo')
+                    InlineKeyboardButton(f'Mᴏᴠɪᴇ', 'minfo'),
+                    InlineKeyboardButton(f'Sᴇʀɪᴇꜱ', 'sinfo')
                 ]
             )
 
